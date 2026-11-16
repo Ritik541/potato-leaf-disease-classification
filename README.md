@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Potato Leaf Disease Classification using CNN
 
 ## Project Overview
@@ -27,3 +28,7 @@ Python, TensorFlow, Keras, NumPy, Matplotlib, Pillow, Scikit-learn, Jupyter Note
 
 ## Note
 The dataset and trained model are not included in this repository. This project is intended for educational purposes.
+=======
+# potato-leaf-disease-classification
+Potato Leaf Disease Classification using CNN and Streamlit
+>>>>>>> 47e6a83a01cefe2a7ff9611582f4a76580182e4c
